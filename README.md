@@ -46,6 +46,7 @@ Found a bug? [Open an issue](https://github.com/digitalforge/ba16463f/issues).
 MIT — see [LICENSE](LICENSE) for details.
 
 
+
 ---
 
 ## Free vs Pro
@@ -65,5 +66,8 @@ MIT — see [LICENSE](LICENSE) for details.
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/kubernetes-cluster-resource-monitoring-and-cost-allocation-vs-code-extension)**
+**[Get Pro Version](https://buy.stripe.com/eVq9ATfXxgaUf44cDWcZa3H)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq9ATfXxgaUf44cDWcZa3H)
+- [Buy on Whop](https://whop.com/kubernetes-cluster-resource-monitoring-and-cost-allocation-vs-code-extension)
 
